@@ -75,3 +75,10 @@ int main() {
 }
 
 Ao final do loop quando SOMA = 77
+
+### Questão 4 
+
+a) 9
+b) 128
+c) 49
+d) 
