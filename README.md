@@ -81,4 +81,10 @@ Ao final do loop quando SOMA = 77
 a) 9
 b) 128
 c) 49
-d) 
+d) 100
+e) 13
+f) 20
+
+### Questão 5
+
+Ligo um dos interruptoes espero um tempo, desligo e ligo outro interruptor. Vou até a sala, a lampada desligada e quente é o primeiro interruptor que liguei, a lampada ligada correponde ao segundo interruptor ligado, restanto apenas a lampada desligada e fria para o interruptor que não foi acionado.
